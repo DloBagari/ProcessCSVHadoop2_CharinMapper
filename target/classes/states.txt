@@ -1,0 +1,1 @@
+/var/lib/hadoop/mapred/local/1494509469911/states.txt
